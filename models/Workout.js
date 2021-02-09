@@ -14,4 +14,8 @@ const WorkoutSchema = new Schema({
             distance: Number
         }
     ]
-})
+});
+
+const Workout = mongoose.model("Workout", WorkoutSchema);
+
+module.exports = Workout;
