@@ -21,6 +21,8 @@ GitHub Repository Link: https://github.com/LauraGwendolynBurch/Workout_Diary
 In it's current Minimal Viable Product iteration, this is a moongoose database application which allows a user to add their workouts to a centralized inventory. In this inventory, a user can track their exercises, as well as details regarding weight used/duration/reps, and then choose which workouts are completed.  
 
 ![Landing Page Stillshot](./public/fitness.png)
+
+![Code Stillshot](./public/code.png)
 ## Usage Instructions
 
 Create workout
@@ -30,7 +32,7 @@ Create workout
 3. Enter the iinformation in the promps.
 4. Hit complete when finished.
 
-![Create workout Demo]()
+![Create Exercise Stillshot](./public/exercise.png)
 
 Contine workout 
 
@@ -39,7 +41,7 @@ Contine workout
 3. Fill in all information fields and click 'add exercise' to add it to your workout.
 5. To complete a workout click the 'complete' button.
 
-![Add/Complete Demo]()
+![Stats Page Stillshot](./public/stats.png)
 ## Credits
 
 Anna Conover (tutor)
