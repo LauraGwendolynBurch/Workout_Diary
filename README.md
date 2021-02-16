@@ -12,7 +12,7 @@ An application that uses express, mongoose, and morgan to help you keep inventor
 - [License](#license)
 ## Locations
 
-Deployed Application Link: []
+Deployed Application Link: https://frozen-thicket-31255.herokuapp.com/?id=602b31bce90599001518f222
 
 GitHub Repository Link: https://github.com/LauraGwendolynBurch/Workout_Diary
 
