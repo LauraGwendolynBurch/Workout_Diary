@@ -25,7 +25,7 @@ In it's current Minimal Viable Product iteration, this is a moongoose database a
 
 Create workout
 
-1. Click the '[Deployed Application Link]()' provided in the '[Location](#location)' section.
+1. Click the Deployed Application Link provided in the Location section.
 2. Click 'create worrkout'.
 3. Enter the iinformation in the promps.
 4. Hit complete when finished.
